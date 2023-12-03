@@ -15,13 +15,4 @@ public class Main {
     Python,
     Pascal,
   }
-
-  // Languages that I speak
-  enum OtherLanguages {
-    English (Proficient),
-    German (Native),
-    Russian (Proficient),
-    Japanese (Intermediate),
-    Latin (Beginner)
-  }
 }
