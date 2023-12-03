@@ -1,16 +1,27 @@
-### Hi there 👋
+public class Main {
 
-<!--
-**venxmxus/venxmxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  // Social Media
+  public static void socialMedia() {
+    final String DISCORD = "sirvenomous";
+    final String GITHUB = "venxmxus";
+    final String SPOTIFY = "https://open.spotify.com/user/uwcgzc8wokhjegbpk3a2smfnu?si=cb22f322d9864891";
+  }
 
-Here are some ideas to get you started:
+  // Skills
+  enum CodingLanguages {
+    Java,
+    JavaScript,
+    Racket,
+    Python,
+    Pascal,
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  // Languages that I speak
+  enum OtherLanguages {
+    English (Proficient),
+    German (Native),
+    Russian (Proficient),
+    Japanese (Intermediate),
+    Latin (Beginner)
+  }
+}
