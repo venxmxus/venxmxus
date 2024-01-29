@@ -14,5 +14,7 @@ public class Main {
     Racket,
     Python,
     Pascal,
+    VBA,
+    PHP
   }
 }
